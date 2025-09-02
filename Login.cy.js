@@ -1,4 +1,4 @@
-describe('Login', ()=> {
+describe('Login Automation', ()=> {
 
 
     it('Functions', ()=> {
